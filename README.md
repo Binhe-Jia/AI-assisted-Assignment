@@ -39,10 +39,6 @@ To run the program, you need to have Java installed on your system. Follow these
 - Modular design that separates different aspects of the game into classes.
 - Easily extendable for adding new strategies or rule variations.
 
-## Contributing
-
-Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to create a pull request or submit an issue.
-
 ## License
 
 This program is open-source and available under the [MIT License](LICENSE).
