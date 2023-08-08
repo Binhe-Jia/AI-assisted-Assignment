@@ -19,3 +19,6 @@ To run this program, you need to have Java installed on your system.
 2. Open a terminal or command prompt and navigate to the cloned directory.
 3. Compile the Java source files by running the following command:
    
+## Testing Framework
+
+This program includes unit tests using the JUnit testing framework. The tests cover important methods within the `BlackjackGame` and `CardUtils` classes. To run the tests, ensure you have JUnit set up in your development environment and run the test classes.
