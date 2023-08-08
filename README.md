@@ -28,7 +28,7 @@ This program was developed using Java SE 8 (Java 1.8).
 
 ## Testing Framework
 
-This program includes unit tests using the JUnit testing framework. The tests cover important methods within the `BlackjackGame` and `CardUtils` classes. To run the tests, ensure you have JUnit set up in your development environment and run the test classes.
+This program includes unit tests using the JUnit testing framework.
 
 ## Code Smells and SOLID
 
