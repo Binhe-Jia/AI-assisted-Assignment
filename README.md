@@ -32,8 +32,6 @@ This program includes unit tests using the JUnit testing framework. The tests co
 
 ## Code Smells and SOLID
 
-While efforts have been made to address code smells and adhere to SOLID principles, some areas may still require improvement. Notable code smells that were addressed include:
-
 - **Duplication**: Code duplication has been reduced by modularizing methods and promoting reusability.
 - **Long Methods**: Methods have been broken down into smaller, focused methods to improve readability and maintainability.
 - **Tight Coupling**: Steps have been taken to reduce coupling between classes and promote separation of concerns.
